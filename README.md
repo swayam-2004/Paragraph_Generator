@@ -4,9 +4,13 @@ This is a simple web-based Random Paragraph Generator built using HTML, CSS, and
 🚀 Features
 
 -Clean and responsive user interface
+
 -Allows users to generate between 1 and 10 random paragraphs
+
 -Built-in content related to JavaScript and Android development
+
 -Input validation and user feedback (alerts if value is 0)
+
 -Uses a shuffle algorithm to randomize content
 
 📸 Demo
